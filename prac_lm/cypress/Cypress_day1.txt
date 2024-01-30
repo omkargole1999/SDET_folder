@@ -1,0 +1,227 @@
+Manual testing :-
+LearningMate :- Educatiion domain 
+
+LearningMate product :- Frost
+
+13th December :-
+  The act of subjecing  to check in order to determine how well things work
+
+Softwar testing 
+
+softwdare testing is the process of analyzing a software item to detect the differecnes between existing and required condition and to evauae the features of the software item 
+that is to detect 
+
+Why software testing is important ?
+
+Architectural flaws
+Poor design descisions
+Invalid or incorrect functionality
+security vulnerablities
+Scalability issues
+
+
+SDLC 
+Whith the software developemnt life cycle,th process of software design is divided into small parts,which makes the problem more understandable and easier to solve
+In SLDC we need to follow the process strictly
+
+Agile :-
+
+
+SDLC :-
+planning 
+defining 
+designing 
+building  
+testing
+deployment
+
+
+Stage 1  -Planning  and requirement analysis
+In planning phase we deal with market analysis ,It is obtained from requirement analysis , market survey ,
+
+stage 2 - defining Requirement 
+My tecnical requirement , are documented .Requirements are confirmed with clients.Documentation is required
+
+Stage 3 - Designing Archtecture
+SRS is reference for software designers to come up with the best architecure for the software .Hencde ,with the requirements
+defined in SRS, multiple designer for the product architecture are present in the design document spec
+
+staage 4 - Developing product 
+   Product is inside development phase
+
+stage 5 - Product testing and Integration
+
+After the development of the product,testers have to make sure that quality og the product is maintained
+Documentation training and support is essensial .Because it helps new Joiners to understand the process
+
+stage 6 _- deployment and maintanence of products
+Decide whether to deploy in phase or as whle.Ten test in a real enviornment
+To test the software in diiferenn URL.To test scalability like how many users can use software at he time .To check every thing and the deploy
+
+
+
+Waterfall model :-
+It is rigid .With changing requirement in Industry nowdays 
+
+
+Agile model :-
+This model is mainly mode to adapt tpo changing reuirement .The main advantage is to complete project quickly.
+
+Client :---UAT
+
+
+Iterative model
+In Iteratve model ,each cycle result in a semi-development but deployale version
+It provides a feedback path 
+
+In iterative model
+
+
+ Spiral Model 
+The Spiral Model is sdlc which provdes 
+If any risk is identifies then it is mitigated in the next loop of 
+one SDLC is one Loop 
+Spiral Model is used in big projects
+The exact number of loop are unknown \
+
+//There is also contracts of developing software
+
+4. Increment process model
+The increment process model is also known as the Suceessive version model
+We create different version of the software 
+
+
+
+STLC
+The main goal of the STLC is to identify and document any defects or issue in the software aoolication as early as possible in the development process.This allows issue to be addressed and resolved before the software is released to the public
+ 
+# STLC is a funcamental part of the SDLC but STLC consists of only the testing phases
+
+# STLC start as requirements are defind or software
+
+# The test cases should be created as soon as requirement phase is started
+
+ 
+Requirement analysis  => test Planning => 
+
+Requirement analysis :-
+Understanding the requirement 
+Meet with clients and understan the requierments
+reviewing documentation 
+
+Identiying any ambiguity or inconsistencies in requirements
+
+Identifying any missing or incomplete requiremnets
+
+Identify any potentials for risk 
+
+Test planning 
+
+# Testing objectives ad scope
+# Development a test strategy :selecting the testing mthods and techniques that will be used 
+#Identifying the expected results for test case
+# review and validating the test cases
+# Updating the requirements -Lengty test cases
+# test cases should be easy to understand
+# updating the requiremets for RTM (requirement Test Matrix)
+
+
+stage 4: Test Enviornment setup 
+
+Stage 5:- Test Case Development
+
+defect log :-
+
+defect retesting :- Any defects that are indentified during test executin are retested to ensure that they have been fixed correctly
+
+The test execution is a repeatative process It cannot be done only once 
+
+Test colsure report :- A report is created that documen all the testing rela
+
+Test enviornment clean up : -
+To clean up the data of client from the eviornment
+
+Reports need to be shared with everyone 
+
+Give the KT(Knowledge transfer) to other stakeholders
+
+## ISTQB certification ##
+
+Tesing sows the presence of defects 
+Exhaustie t
+
+In which operation your operating system fails ??
+=> Multitasking 
+
+principle 2 Defect Clustering 
+
+Defect clustering is the idea that a small number of software 
+If yu find one defect in the one module then you can also find defect on other module
+Identify the area and focus on it
+
+Principle 3 :- 
+Pesticide paradox
+Test cases need to be costantl ybe reviewed and revised 
+Evolve the test cases
+If database testing then do other testing 
+
+principle 4 : Testing shows the presence of defects
+It talks about aboutprobability of un founded defects in the program
+
+You should not document that software is bugs free
+
+Principle 5 :-Absence of error - fallacy
+If the application is tested for the wrong requirement
+
+principle 6 :- Early Testing 
+Early testing - Testing should start as early as possible i the softeware Deveopment
+
+
+principle 7 :-Testing is context dependent
+Test condition and methidologies sould be decded based on the type of the project
+eg - POS and ATM testimg is competely different
+
+
+Test Maturity Model :-
+
+CMM Level - example -(Dabba valla makes no mistakes)
+CMM level
+
+1. Five level of TMM
+2. RMM vs CMM'
+3. Benefits of TMM
+4. Need for TMM
+
+# It help in better assesssmeny and enhanceent of quality
+#
+
+
+
+
+Level 1 : Initialization 
+At this level, we ar able 
+
+
+
+
+level 2 deinion
+this is the second level of the Test Maturity Model
+This is 
+
+level 3 Integraton 
+
+
+level 5 : measurement and managemet
+
+level 6 ; optimization
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+{
+  "name": "jenkins_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --headed --spec D:\\OmkarGole\\Cypress\\jenkins\\cypress\\e2e\\TC001.cy.js",
+    "runtest" : "npm run test"
+  },
+  "author": "omkar",
+  "license": "ISC"
+}

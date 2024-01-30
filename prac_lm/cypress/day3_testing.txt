@@ -1,0 +1,157 @@
+Types of testing 
+1. manual testing
+# whiite
+
+# black box
+=> functional testing
+=> non functional t or something testing
+
+grey box
+
+2. Automation testing
+
+
+
+### Black box testing
+
+Inthis tecnique,the tster or the QA analyst wil onlt check the functionality
+of the particular module or particular method 
+
+
+
+type 2 - White Box esting
+
+In theis the person will check the internal structureof the system like designs ,coding ,etc,maually
+The development team will reviwe the entire coding part line by line to ensure the correctness
+
+dev envornment is very unstable enviornment
+developers use unit testing
+
+type 3 - Grey Box testing
+
+The technique is the combination of both white-box testing and black-box testing.Here ,the internal structure of the application is partially known by the tester
+
+Below are 4 major beased testing.
+1. decision table based testing
+   a.Cndition stub
+   b.Action stubs
+   c.Condition entries
+   d. 
+ condition stub are conditions
+ action stub
+
+Type of descision table
+1. Limited entry 
+2. Extended entry
+
+
+2. Pairwise testing 
+3. cause efffect graphing testing
+Ths tecnique in which a graph is used to epresenet the situations of combination input conditions.
+minimum test cases and maximum coverage
+
+AND -for effect E! to be true ,both
+OR
+NOR
+
+always go from right to left(effect to cause)
+
+
+4. state 
+
+
+Trchnique 2 :- Pairwise testing 
+
+pairwise testing is a type of software testing in which permutation and cmbnatio method is used to test the software pairwise 
+
+step 1 -
+1. Order ctegory
+a . Buy
+b.sell
+
+Advantage of pairwise testing
+1. pairwise testing reduces the number of execution of test cases
+2. Pairwise tsting increaes the test coverage alomost up to hundread percentage
+3. pairwise
+
+
+disavantages of pairwise 
+1. some of the combination can be missed or cannot be sorted
+
+
+pict ,ibm focus,
+
+techniquw 4 - state transition testing
+Ti is testing wich is performed to check the change in state of the application under carrying input.
+
+Transition states
+1. Change mode
+2. Reset:
+3. Time set: 
+4. When this mode is activated.
+
+state transition diagram
+1. states
+2. transition
+3. event 
+4. actions
+
+
+White Box techniques
+1. Data flow tesing
+2. control flow testing
+3. code coverage
+4. statement coverage
+
+advantages of code base
+1. dev => key way(same for dev and qa) => plot
+2. 
+
+
+
+sonar cube :- 
+Jtest
+
+
+Test management tool :-
+Eery jia id is issue id
+
+
+Jira - open 
+
+Task => sub task
+
+In story - create task
+
+functional testing
+defination :- Functional testing is type of testing that seeks wsablish wheather each application feature works as oer the softeare requirement
+
+Below are 3 types of functional test
+1. unit testing
+it focuses on small units of the module
+It ensures tha teverything works perfectly
+
+Integration testing 
+1. When different moduls are integrated together sometimes the integration is not proper
+some thimes the api dont transfer the data
+
+2. Has the API integrated correctly into the system
+
+1. Big - Bang Integration - 
+Big bang Integration combies all the small modules and and test thm together
+
+disadvantages
+1. There will be quite 
+
+
+Advantages - 
+In bottom-up tsing no stubs are required
+A principle advantage of his Integration testing is that 
+
+
+Mixed integration testing :-
+1 . 
+
+
+env set up => create test cases => create test data => execute test cases
+ 

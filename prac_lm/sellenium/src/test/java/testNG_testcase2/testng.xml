@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestCaseSuite" thread-count="3" parallel="tests">
+  <test  name="TestCase2_chrome">
+	  <parameter name="Browser" value="chrome"></parameter>
+    <classes>
+      <class name="testNG_testcase2.testNG_testcase2"/>
+    </classes>
+  </test> <!-- TestCase2 -->
+  <test  name="TestCase2_firefox">
+	  <parameter name="Browser" value="firefox"></parameter>
+    <classes>
+      <class name="testNG_testcase2.testNG_testcase2"/>
+    </classes>
+  </test> <!-- TestCase2 -->
+  <test name="TestCase2_edge">
+	  <parameter name="Browser" value="edge"></parameter>
+    <classes>
+      <class name="testNG_testcase2.testNG_testcase2"/>
+    </classes>
+  </test> <!-- TestCase2 -->
+</suite> <!-- TestCaseSuite -->

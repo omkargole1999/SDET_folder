@@ -1,0 +1,103 @@
+Agile manifesto
+
+1. Indiviidulas and Interaction over Processes and Tools'
+2 .Customer collaboration over contract negotiation
+
+
+3 .Responding to change over following a plan
+# smart planning 
+
+
+
+Agile Principle 
+2 . Welocme 
+
+3. Deliver working software frequently ,from a couple of weeklt
+
+4. Business and developer must work together daily throughout project
+
+# the most important and effective methods of conveying information is face to fac conversations
+
+7. wrokin software are primary measure of success
+
+8. 
+
+9. Continously attention to technical excellence and good design enhances agility
+
+10 .Simplicity -the art of maimize hte amount of work not done is essential
+
+11 . The best architecture , requirement  and design emerge from self organizing teams
+
+
+
+The whole team approach
+1. 7 +- 2
+2. stable
+3. Cross function
+4. includes a "Customer'
+posses al the skills needed
+generalizimg specialists
+peopple 
+
+
+
+Scrum
+Ensures that scrum rules and practices are practiced
+
+
+The time duration for a sprint is decided by the team 
+
+sprint is like a mini project
+
+each 
+
+scrum divides the project into 
+
+Product backlog
+Constains features to be built ,functions ,non functiions requirement
+enhancement ,and fixes
+
+ideall ypressed such that each iteam has value
+
+
+The scrum team select a set f the highest priority item from the product backlog
+Scum ; transcperamncy
+The scrum should be visibke yo every one o the team
+
+
+
+Kanban
+Yhe primar purpose of kanban is to visualize and optimize the flow withinin a value added chain
+
+Backlog => selected => development
+
+User Story Creation 
+INVEST
+I :- independent
+N - Negotiable
+V :- Valuable
+E :- Estimatable
+S :- small
+T :- Testable
+
+The 3Cs Concept
+card :- A simple card to write down the requirement as opposed to a heavy weight document
+
+conversation :-
+Having a conversation - co
+
+confirmation
+
+
+Retrospective :-
+In retrospective meeting ,the team discusses 
+what was successfull ?
+What could be improved ?
+incorporate improvement 
+
+ The retrospective meeting are conducted after a sprint review sprint meeting 
+
+
+Continious integration benefits
+1. reduces repetative manual testing activities
+2. Pr
